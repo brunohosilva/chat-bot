@@ -1,0 +1,6 @@
+module Pods_ChatBotProject {
+  umbrella header "Pods-ChatBotProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
